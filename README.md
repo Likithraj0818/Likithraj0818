@@ -42,6 +42,7 @@ I build production-grade backend systems, Generative AI applications, and intell
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ---
 
@@ -53,6 +54,7 @@ I build production-grade backend systems, Generative AI applications, and intell
 | [✈️ AI Travel Planner](https://github.com/Likithraj0818/ai-travel-planner) | Multi-agent travel advisor with live data | CrewAI · Gemini Pro · Streamlit |
 | [📦 CIFAR-10 CNN Classifier](https://github.com/Likithraj0818/cifar10-classifier) | CNN image classifier with Flask API + Streamlit UI | TensorFlow · OpenCV · Flask |
 | [🧠 TalentFlow AI](https://likithraj0818.github.io) | OCR-based recruitment & interview management system | Python · OCR · FastAPI · PostgreSQL |
+| [🤖 SAP Portal Automation](https://likithraj0818.github.io) | Browser automation for SAP web portal workflows (Freelance) | Python · Playwright |
 
 ---
 
